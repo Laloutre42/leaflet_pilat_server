@@ -1,0 +1,5 @@
+org\zed\coding\controller\village\VillageController.class
+org\zed\coding\configuration\RouterConfiguration.class
+org\zed\coding\Application.class
+org\zed\coding\dao\village\VillageRepository.class
+org\zed\coding\model\village\Village.class
